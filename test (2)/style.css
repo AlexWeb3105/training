@@ -1,0 +1,12 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.slider-container {
+    max-width: 1420px;
+    height: 1000px;
+    background-color: rgb(155, 106, 106);
+    flex-grow: 1;
+}
